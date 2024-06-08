@@ -6,7 +6,7 @@
   flex-direction: column;
   justify-content: center;
 }
-@media(max-width: 991px) {
+@media(max-width: 2000px) {
   .home-container {
     background-color: #000000;
   }
